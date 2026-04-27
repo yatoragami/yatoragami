@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Vinicius Ferreira | 19 anos | Manaus, AM    
 🎓 Cursando Sistemas de Informação (3° periodo) - FAMETRO.    
-💡 Foco atual: Python, C, JS.   
+💡 Foco atual: HTML, CSS, JS.   
      
 
 ---
