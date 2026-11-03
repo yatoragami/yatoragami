@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=820&lines=CONNECTING+TO+THE+WIRED...;SPIRAL+ENGINE%3A+ONLINE;QA+ANALYST+%26+SOFTWARE+DEVELOPER" alt="CONNECTING TO THE WIRED... / SPIRAL ENGINE: ONLINE / QA ANALYST & SOFTWARE DEVELOPER" />
 </p>
 
-<p align="center">
-  <code>⟦ SIGNAL LOCKED ⟧</code> &nbsp; <code>WIRED: ONLINE</code> &nbsp; <code>SPIRAL: ∞</code>
-</p>
 
 ```text
 ┌──(wired@spiral-core)-[~/profile]
