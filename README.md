@@ -20,18 +20,12 @@
 
 ## `01 // SIGNAL PROFILE`
 
-Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Quality Assurance** e **desenvolvimento de software**: encontrar falhas cedo, integrar serviços e fazer as soluções avançarem um limite por vez.
-
-- 🎓 Sistemas de Informação — Centro Universitário Fametro *(2025–2028, em andamento)*
-- 🌐 Manaus, AM · Inglês avançado
-- 🧪 QA, testes de software e validação de APIs
-- ⚙️ Automações, integrações e suporte de TI
+Profissional de Tecnologia da Informação com experiência em suporte técnico, atuando no atendimento a usuários, resolução de incidentes e suporte a hardware, software, redes, periféricos e sistemas corporativos. Experiência com instalação, configuração e manutenção de equipamentos e estações de trabalho, além de administração de acessos, permissões e suporte remoto. Atuação também em configuração de sistemas e equipamentos de infraestrutura, incluindo instalação e manutenção de câmeras, DVRs e NVRs, além de integrações entre sistemas e dispositivos por meio de webhooks e automações. Experiência na criação de dashboards e indicadores, desenvolvimento de automações e melhoria de processos, contribuindo para a redução de tarefas manuais e maior eficiência operacional. Também contribuo com documentação técnica, padronização e organização do ambiente de TI.  
 
 ## `02 // TOOLCHAIN`
 
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41&color=000000" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&color=000000" alt="SQL" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-000000?style=for-the-badge&logo=googleappsscript&logoColor=00E5FF&color=000000" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6B35&color=000000" alt="Postman" />
   <img src="https://img.shields.io/badge/Jira_Service_Management-000000?style=for-the-badge&logo=jira&logoColor=00E5FF&color=000000" alt="Jira Service Management" />
@@ -47,7 +41,6 @@ Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Qu
   - Testes automatizados e fundamentos de teste de software.
   - Testes de APIs REST com Postman.
   - Análise de fluxos, SLAs, dashboards e NPS no Jira Service Management.
-  - Cursos Udemy: Testes Automáticos e Fundamentos de Teste (Gustavo Farias); Testes de API REST com Postman (Everton Ulisses).
 </details>
 
 <details>
@@ -66,7 +59,7 @@ Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Qu
 
   - Atendimento N1, infraestrutura, acessos e suporte com AnyDesk.
   - Experiência como Assistente de TI na Tvlar Motors.
-  - Arquitetura de Redes — curso Udemy (Gabriel Torres).
+  - Arquitetura de Redes.
 </details>
 
 ## `03 // GITHUB TELEMETRY`
@@ -87,8 +80,7 @@ Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Qu
 ## `04 // ESTABLISH CONNECTION`
 
 <p>
-  <a href="https://github.com/yatoragami"><img src="https://img.shields.io/badge/GitHub-yatoragami-000000?style=for-the-badge&logo=github&logoColor=00FF41&color=000000" alt="Perfil GitHub yatoragami" /></a>
-  <img src="https://img.shields.io/badge/ENGLISH-ADVANCED-000000?style=for-the-badge&logoColor=00E5FF&color=000000" alt="Inglês avançado" />
+  <a href="https://github.com/yatoragami"><img src="https://img.shields.io/badge/GitHub-yatoragami-000000?style=for-the-badge&logo=github&logoColor=00FF41&color=000000" alt="Perfil GitHub yatoragami" />
 </p>
 
 <p align="center"><code>┌──────────────────────────────────────────────────────┐</code><br /><code>DON'T BELIEVE IN YOURSELF. BELIEVE IN THE ME THAT BELIEVES IN YOU.</code><br /><code>WIRED CONNECTION // SPIRAL ENGINE: ONLINE</code><br /><code>└──────────────────────────────────────────────────────┘</code></p>
