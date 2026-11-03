@@ -72,18 +72,16 @@ Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Qu
 ## `03 // GITHUB TELEMETRY`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yatoragami&show_icons=true&hide_border=true&bg_color=0d0d11&title_color=00ff41&text_color=a9b1d6&icon_color=00e5ff" alt="Estatísticas GitHub de yatoragami" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=yatoragami&hide_border=true&background=0d0d11&ring=00e5ff&fire=ff5f1f&currStreakLabel=00ff41&sideLabels=a9b1d6&currStreakNum=00ff41&sideNums=a9b1d6&dates=777b91" alt="Sequência de contribuições de yatoragami" />
+  <img src="./assets/overview.dark.svg" alt="Estatísticas do GitHub" />
+  <img src="./assets/contributions.dark.svg" alt="Contribuições e sequência" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yatoragami/yatoragami/output/github-snake.svg" alt="Snake atravessando o grid de contribuições" />
+  <img src="./assets/momentum.dark.svg" alt="Atividade do GitHub ao longo do tempo" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yatoragami">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatoragami&bg_color=0d0d11&color=a9b1d6&line=00ff41&point=00e5ff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
-  </a>
+  <img src="./profile/github-snake.svg" alt="Snake animada no grid de contribuições" />
 </p>
 
 ## `04 // ESTABLISH CONNECTION`
