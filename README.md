@@ -95,4 +95,4 @@ Conecto sistemas, automatizo fluxos e testo cada elo da cadeia. Meu foco é **Qu
   <img src="https://img.shields.io/badge/ENGLISH-ADVANCED-000000?style=for-the-badge&logoColor=00E5FF&color=000000" alt="Inglês avançado" />
 </p>
 
-<p align="center"><code>┌──────────────────────────────────────────────────────┐</code><br /><code>DON'T BELIEVE IN YOURSELF. BELIEVE IN THE ME THAT BELIEVES IN YOU.</code><br /><code>WIRED CONNECTION // SPIRAL ENGINE: ONLINE</code><br /><code>└──────────────────────────────────────────────────────┘</code></p>
+<p align="center"><code>┌──────────────────────────────────────────────────────┐</code><br /><code>DON'T BELIEVE IN YOURSELF. BELIEVE IN THE ME THAT BELIEVES IN YOU.</code><br <code>└──────────────────────────────────────────────────────┘</code></p>
