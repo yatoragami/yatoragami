@@ -15,7 +15,7 @@
 [ACADEMIC]  :: Sistemas de Informação @ Fametro
 [LOCATION]  :: Manaus, AM
 [CORE]      :: REST APIs | Java | SQL | Test Automation
-[MOTTO]     :: "Row Row Fight the Code. Connected to the Wired."
+[MOTTO]     :: "Row Row Fight the Code."
 ```
 
 ## `01 // SIGNAL PROFILE`
